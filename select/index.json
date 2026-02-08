@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "inside you",
+  "base_artist": "milet",
+  "createdAt": "2026-02-08T10:05:49.351267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something Real (Inside Me/Inside You)",
+      "artist": "Mr. Mister",
+      "has_synced": true,
+      "path": "select/01_Something_Real_(Inside_Me_Inside_You)_Mr._Mister.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Something Real (Inside Me\u0000Inside You)",
+      "artist": "Mr. Mister",
+      "has_synced": true,
+      "path": "select/02_Something_Real_(Inside_Me\u0000Inside_You)_Mr._Mister.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inside You",
+      "artist": "House of Lords",
+      "has_synced": true,
+      "path": "select/03_Inside_You_House_of_Lords.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inside You",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/04_Inside_You_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Devil Inside You",
+      "artist": "Elis",
+      "has_synced": true,
+      "path": "select/05_Devil_Inside_You_Elis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breakout (Embrace the Child Inside You)",
+      "artist": "Clawfinger",
+      "has_synced": false,
+      "path": "select/06_Breakout_(Embrace_the_Child_Inside_You)_Clawfinger.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Non ci sei tu (The Best Inside You)",
+      "artist": "Paola Turci",
+      "has_synced": true,
+      "path": "select/07_Non_ci_sei_tu_(The_Best_Inside_You)_Paola_Turci.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inside you",
+      "artist": "Godhead",
+      "has_synced": true,
+      "path": "select/08_Inside_you_Godhead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sound Inside Me, Waves Inside You",
+      "artist": "Parannoul",
+      "has_synced": true,
+      "path": "select/09_Sound_Inside_Me,_Waves_Inside_You_Parannoul.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pushin' Inside You",
+      "artist": "Sons of Funk",
+      "has_synced": false,
+      "path": "select/10_Pushin'_Inside_You_Sons_of_Funk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inside You",
+      "artist": "Michael Franks",
+      "has_synced": true,
+      "path": "select/11_Inside_You_Michael_Franks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Inside You",
+      "artist": "The Wonder Stuff",
+      "has_synced": true,
+      "path": "select/12_Inside_You_The_Wonder_Stuff.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something Real (Inside Me-Inside You)",
+      "artist": "Mr. Mister",
+      "has_synced": false,
+      "path": "select/13_Something_Real_(Inside_Me-Inside_You)_Mr._Mister.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Something Real (Inside Me-Inside You)",
+      "artist": "Mr. Mister",
+      "has_synced": true,
+      "path": "select/14_Something_Real_(Inside_Me-Inside_You)_Mr._Mister.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bigger on the Inside",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/15_Bigger_on_the_Inside_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everything Inside Me Is Ill",
+      "artist": "Maximilian Hecker",
+      "has_synced": true,
+      "path": "select/16_Everything_Inside_Me_Is_Ill_Maximilian_Hecker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/17_From_The_Inside_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fight from the Inside",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/18_Fight_from_the_Inside_Queen.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Feel Inside",
+      "artist": "Mary J. Blige feat. Nicki Minaj",
+      "has_synced": false,
+      "path": "select/19_Feel_Inside_Mary_J._Blige_feat._Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Get along with You (Soul Inside Radio Mix)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/20_Get_along_with_You_(Soul_Inside_Radio_Mix)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Inside My Head",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/21_Inside_My_Head_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Inside My Head",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/22_Inside_My_Head_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Inside My Head - Live",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/23_Inside_My_Head_-_Live_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Inside My Head (Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/24_Inside_My_Head_(Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/25_The_Way_I_Feel_Inside_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside (rehearsal)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/26_The_Way_I_Feel_Inside_(rehearsal)_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside \u0000 Rehearsal",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/27_The_Way_I_Feel_Inside_\u0000_Rehearsal_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Inside",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/28_Inside_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Inside",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/29_Inside_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "(Something Inside) So Strong",
+      "artist": "Labi Siffre",
+      "has_synced": false,
+      "path": "select/30_(Something_Inside)_So_Strong_Labi_Siffre.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "All the Hurt Inside",
+      "artist": "Monster Movie",
+      "has_synced": true,
+      "path": "select/31_All_the_Hurt_Inside_Monster_Movie.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Inside a Boy",
+      "artist": "My Brightest Diamond",
+      "has_synced": true,
+      "path": "select/32_Inside_a_Boy_My_Brightest_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Inside Looking Out",
+      "artist": "Mark Hollis",
+      "has_synced": false,
+      "path": "select/33_Inside_Looking_Out_Mark_Hollis.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/34_Inside_Out_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "inside you",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_inside_you_milet.txt"
+    }
+  ]
+}
